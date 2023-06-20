@@ -14,11 +14,11 @@ My personal reading list comprises a selection of books that have profoundly imp
 </details>
 
 <details>
-  <summary> Thinking Fast and Slow (Daniel Kahneman) </summary>
+  <summary> Fundamentals of Entrepreneurial Finance (Marco Da Rin et al) </summary>
+  
+  - understanding how investors pick winner? How do they finance growth
+  - How do entrepreneurs manage to attract interest from investors?
+  - A good corporate finance book help us to understand the world of investors, and an entrepreneurship book help to understand the world of entreprenurs.
+  - Buy the book: [Fundamentals of Entrepreneurial Finance (Marco Da Rin et al]([https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576](https://amzn.eu/d/9GsWwwy)https://amzn.eu/d/9GsWwwy)
+
 </details>
-  
-  <summary> Thinking Fast and Slow (Daniel Kahneman) </summary>
-  
-<details>
-  
-  <summary> Thinking Fast and Slow (Daniel Kahneman) </summary>
