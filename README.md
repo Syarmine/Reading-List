@@ -8,5 +8,5 @@ My personal reading list comprises a selection of books that have profoundly imp
   <summary> Thinking Fast and Slow (Daniel Kahneman) </summary>
   
   - understanding the biases of intuition
-  - [Thinking Fast and Slow (Daniel Kahneman)](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)
+  - Buy the book: [Thinking Fast and Slow (Daniel Kahneman)](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)
 
