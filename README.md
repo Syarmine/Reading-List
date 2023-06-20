@@ -5,11 +5,11 @@ My personal reading list comprises a selection of books that have profoundly imp
 ## Productivity 
 
 <details>
-  <summary> Thinking Fast and Slow (Daniel Kahneman) </summary>
+  <summary> Thinking Fast and Slow (Daniel Kahneman) 
   
   - understanding the biases of intuition
   - We are prone to overestimate how much we understand about the world and to underestimate the role of chance in events 
-  - Buy the book: [Thinking Fast and Slow (Daniel Kahneman)](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)
+  - Buy the book: [Thinking Fast and Slow (Daniel Kahneman)](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576) </summary>
 
 <details>
   <summary> Thinking Fast and Slow (Daniel Kahneman) </summary>
