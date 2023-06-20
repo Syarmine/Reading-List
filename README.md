@@ -14,6 +14,6 @@ My personal reading list comprises a selection of books that have profoundly imp
 <details>
   <summary> Thinking Fast and Slow (Daniel Kahneman) </summary>
 <details>
-<summary> Thinking Fast and Slow (Daniel Kahneman) </summary>
+  <summary> Thinking Fast and Slow (Daniel Kahneman) </summary>
 <details>
-<summary> Thinking Fast and Slow (Daniel Kahneman) </summary>
+  <summary> Thinking Fast and Slow (Daniel Kahneman) </summary>
