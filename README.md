@@ -5,4 +5,5 @@ My personal reading list comprises a selection of books that have profoundly imp
 ## Productivity 
 - [Thinking Fast and Slow (Daniel Kahneman)](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)
 
-  
+  <details>
+  <summary>Click me</summary>
