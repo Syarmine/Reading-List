@@ -3,7 +3,7 @@ My personal reading list comprises a selection of books that have profoundly imp
 # Table of Contents
 - [My Github Reference](https://github.com/Syarmine/Reading-List/blob/main/README.md#my-github-reference)
 - [Productivity](https://github.com/Syarmine/Reading-List/blob/main/README.md#productivity)
-- [Public Health](https://github.com/Syarmine/Reading-List/blob/main/README.md#productivity)
+- [Public Health](https://github.com/Syarmine/Reading-List/blob/main/README.md#public-health)
 
 # My Github Reference
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
