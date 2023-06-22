@@ -21,3 +21,14 @@ My personal reading list comprises a selection of books that have profoundly imp
   - Buy the book: [Fundamentals of Entrepreneurial Finance (Marco Da Rin et al)](https://amzn.eu/d/9GsWwwy)
 
 </details>
+
+
+</details>
+
+## Public Health  
+<details>
+  <summary> ✅ Issues in Public Health (Martin Mckee) </summary>
+
+  - new contemporary issues in public health: planetary health, commercial and social determinant of health, NCDs, ageing population
+  - Understanding different perspectives to ensure inclusivity in health interventions 
+  - Buy the book: [Issues in Public Health)]([https://amzn.eu/d/9GsWwwy)
