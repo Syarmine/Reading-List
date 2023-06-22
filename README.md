@@ -1,4 +1,4 @@
-My personal reading list comprises a selection of books that have profoundly impacted my thinking, broadened my perspective, and stimulated my curiosity about the world. I would like to share my reading list to others via Github by sharing my key takeaways and impactful points that would be beneficial to others
+My personal handbook and reading list comprises a selection of books that have profoundly impacted my thinking, broadened my perspective, and stimulated my curiosity about the world. I would like to share my reading list to others via Github by sharing my key takeaways and impactful points that would be beneficial to others
 
 ## Table of Contents
 - [My Github Reference](https://github.com/Syarmine/Reading-List/blob/main/README.md#my-github-reference)
@@ -8,6 +8,11 @@ My personal reading list comprises a selection of books that have profoundly imp
 ## My Github Reference
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Github Documentation](https://docs.github.com/en/get-started)
+
+## My Open-Source Data Guide
+- [Tableau Help](https://www.tableau.com/support/help)
+- [MarkDown Guide](https://www.markdownguide.org/)
+- [Statistical Teaching](https://bookdown.org/dalzelnm/bookdown-demo/)
 
 ## Productivity 
 
